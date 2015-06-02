@@ -27,7 +27,7 @@ public class Principal {
 		JMenuBar jMenuBar = new JMenuBar();
 		jfrm.setJMenuBar(jMenuBar);
 		
-		JMenu jMenuFerramenta = new JMenu("Ferrementa");
+		JMenu jMenuFerramenta = new JMenu("Ferramenta");
 		jMenuBar.add(jMenuFerramenta);
 		
 		JMenu jMenuAbout = new JMenu("About");
